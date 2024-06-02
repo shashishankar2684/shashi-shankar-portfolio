@@ -70,6 +70,8 @@
     .contact-info-container p,
     .nav-links li a {
         font-size: 1rem;
+        flex-wrap: wrap;
+
     }
     .experience-sub-title{
         font-size: 1.25rem;
@@ -88,7 +90,7 @@
         justify-content: center;
     }
     .section__text__p2 {
-        font-size: 2rem;
+        font-size: 1.25rem;
     }
     .title{
         font-size: 2rem;
